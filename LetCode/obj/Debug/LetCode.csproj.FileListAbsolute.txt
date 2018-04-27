@@ -1,0 +1,7 @@
+C:\Users\ihor.lisnytsia\Source\Repos\LetCode\LetCode\bin\Debug\LetCode.exe.config
+C:\Users\ihor.lisnytsia\Source\Repos\LetCode\LetCode\bin\Debug\LetCode.exe
+C:\Users\ihor.lisnytsia\Source\Repos\LetCode\LetCode\bin\Debug\LetCode.pdb
+C:\Users\ihor.lisnytsia\Source\Repos\LetCode\LetCode\obj\Debug\LetCode.csprojResolveAssemblyReference.cache
+C:\Users\ihor.lisnytsia\Source\Repos\LetCode\LetCode\obj\Debug\LetCode.csproj.CoreCompileInputs.cache
+C:\Users\ihor.lisnytsia\Source\Repos\LetCode\LetCode\obj\Debug\LetCode.exe
+C:\Users\ihor.lisnytsia\Source\Repos\LetCode\LetCode\obj\Debug\LetCode.pdb
