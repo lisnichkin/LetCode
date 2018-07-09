@@ -15,6 +15,8 @@ namespace LetCode
             algorithms.EasyAlgorthms.TwoSumSolution.TwoSum(new int[] {2,5,5,11}, 10);
 
             Console.ReadLine();
+
+            var a = 5;
         }
     }
 }
