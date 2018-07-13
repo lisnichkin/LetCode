@@ -23,28 +23,6 @@ namespace LetCode.Algorithms.Easy.Implementation.Two_Sum
                 j++;
             }
 
-
-
-
-
-
-
-
-
-            //First Case - 460ms
-
-            //for (int i = 0; i < nums.Count() - 1; i++)
-            //{
-            //    for (int j = i + 1; j < nums.Length; j++)
-            //    {
-            //        if (nums[i] + nums[j] == target)
-            //        {
-            //            Console.WriteLine(@"Two Sum Result - [{0}, {1}]", i, j);
-            //            return new[] { i, j };
-            //        }
-            //    }
-            //}
-
             return new int[2];
         }
     }

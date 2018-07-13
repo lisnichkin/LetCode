@@ -16,7 +16,6 @@ namespace LetCode
 
             Console.ReadLine();
 
-            var a = 5;
         }
     }
 }
