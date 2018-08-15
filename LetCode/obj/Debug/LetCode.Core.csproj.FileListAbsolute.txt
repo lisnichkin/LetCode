@@ -1,0 +1,7 @@
+D:\Store\LetCode\LetCode\bin\Debug\LetCode.exe.config
+D:\Store\LetCode\LetCode\bin\Debug\LetCode.exe
+D:\Store\LetCode\LetCode\bin\Debug\LetCode.pdb
+D:\Store\LetCode\LetCode\obj\Debug\LetCode.Core.csprojAssemblyReference.cache
+D:\Store\LetCode\LetCode\obj\Debug\LetCode.Core.csproj.CoreCompileInputs.cache
+D:\Store\LetCode\LetCode\obj\Debug\LetCode.exe
+D:\Store\LetCode\LetCode\obj\Debug\LetCode.pdb

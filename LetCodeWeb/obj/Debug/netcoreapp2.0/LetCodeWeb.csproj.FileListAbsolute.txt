@@ -1,0 +1,11 @@
+D:\Store\LetCode\LetCodeWeb\bin\Debug\netcoreapp2.0\LetCodeWeb.deps.json
+D:\Store\LetCode\LetCodeWeb\bin\Debug\netcoreapp2.0\LetCodeWeb.runtimeconfig.json
+D:\Store\LetCode\LetCodeWeb\bin\Debug\netcoreapp2.0\LetCodeWeb.runtimeconfig.dev.json
+D:\Store\LetCode\LetCodeWeb\bin\Debug\netcoreapp2.0\LetCodeWeb.dll
+D:\Store\LetCode\LetCodeWeb\bin\Debug\netcoreapp2.0\LetCodeWeb.pdb
+D:\Store\LetCode\LetCodeWeb\obj\Debug\netcoreapp2.0\LetCodeWeb.csprojAssemblyReference.cache
+D:\Store\LetCode\LetCodeWeb\obj\Debug\netcoreapp2.0\LetCodeWeb.csproj.CoreCompileInputs.cache
+D:\Store\LetCode\LetCodeWeb\obj\Debug\netcoreapp2.0\LetCodeWeb.AssemblyInfoInputs.cache
+D:\Store\LetCode\LetCodeWeb\obj\Debug\netcoreapp2.0\LetCodeWeb.AssemblyInfo.cs
+D:\Store\LetCode\LetCodeWeb\obj\Debug\netcoreapp2.0\LetCodeWeb.dll
+D:\Store\LetCode\LetCodeWeb\obj\Debug\netcoreapp2.0\LetCodeWeb.pdb

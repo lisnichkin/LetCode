@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using LetCode.Algorithms.Easy.Implementation.Two_Sum;
+﻿using LetCode.Algorithms.Easy.Implementation;
 
 namespace LetCode.Algorithms.Easy
 {

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "LeetCode.Manager/1.0.0": {
+        "dependencies": {
+          "LeetCode.Models": "1.0.0",
+          "LetCode.Core": "1.0.0"
+        },
+        "runtime": {
+          "LeetCode.Manager.dll": {}
+        }
+      },
+      "LeetCode.Models/1.0.0": {
+        "runtime": {
+          "LeetCode.Models.dll": {}
+        }
+      },
+      "LetCode.Core/1.0.0": {
+        "runtime": {
+          "LetCode.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LeetCode.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LetCode.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

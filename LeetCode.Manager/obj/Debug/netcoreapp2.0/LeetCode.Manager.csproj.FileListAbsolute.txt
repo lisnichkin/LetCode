@@ -1,0 +1,15 @@
+D:\Store\LetCode\LeetCode.Manager\bin\Debug\netcoreapp2.0\LeetCode.Manager.deps.json
+D:\Store\LetCode\LeetCode.Manager\bin\Debug\netcoreapp2.0\LeetCode.Manager.dll
+D:\Store\LetCode\LeetCode.Manager\bin\Debug\netcoreapp2.0\LeetCode.Manager.pdb
+D:\Store\LetCode\LeetCode.Manager\bin\Debug\netcoreapp2.0\LeetCode.Models.dll
+D:\Store\LetCode\LeetCode.Manager\bin\Debug\netcoreapp2.0\LetCode.exe
+D:\Store\LetCode\LeetCode.Manager\bin\Debug\netcoreapp2.0\LeetCode.Models.pdb
+D:\Store\LetCode\LeetCode.Manager\bin\Debug\netcoreapp2.0\LetCode.pdb
+D:\Store\LetCode\LeetCode.Manager\bin\Debug\netcoreapp2.0\LetCode.exe.config
+D:\Store\LetCode\LeetCode.Manager\obj\Debug\netcoreapp2.0\LeetCode.Manager.csprojAssemblyReference.cache
+D:\Store\LetCode\LeetCode.Manager\obj\Debug\netcoreapp2.0\LeetCode.Manager.csproj.CoreCompileInputs.cache
+D:\Store\LetCode\LeetCode.Manager\obj\Debug\netcoreapp2.0\LeetCode.Manager.AssemblyInfoInputs.cache
+D:\Store\LetCode\LeetCode.Manager\obj\Debug\netcoreapp2.0\LeetCode.Manager.AssemblyInfo.cs
+D:\Store\LetCode\LeetCode.Manager\obj\Debug\netcoreapp2.0\LeetCode.Manager.csproj.CopyComplete
+D:\Store\LetCode\LeetCode.Manager\obj\Debug\netcoreapp2.0\LeetCode.Manager.dll
+D:\Store\LetCode\LeetCode.Manager\obj\Debug\netcoreapp2.0\LeetCode.Manager.pdb

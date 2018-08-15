@@ -42,10 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Algorithms\Algorithms.cs" />
+    <Compile Include="Algorithms\AlgorithmsCore.cs" />
     <Compile Include="Algorithms\Easy\EasyAlgorithms.cs" />
-    <Compile Include="Algorithms\Easy\Implementation\Two Sum\TwoSumSolution.cs" />
-    <Compile Include="Algorithms\Easy\Interfaces\Two Sum\ITwoSumSolution.cs" />
+    <Compile Include="Algorithms\Easy\Implementation\TwoSumSolution.cs" />
+    <Compile Include="Algorithms\Easy\Interfaces\ITwoSumSolution.cs" />
+    <Compile Include="Algorithms\Easy\Implementation\ReverseIntegerSolution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

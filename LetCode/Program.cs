@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using LetCode.Algorithms;
 
 namespace LetCode
 {
@@ -10,12 +7,11 @@ namespace LetCode
     {
         static void Main(string[] args)
         {
-            Algorithms.Algorithms algorithms = new Algorithms.Algorithms();
+            var algorithms = new AlgorithmsCore();
 
             algorithms.EasyAlgorthms.TwoSumSolution.TwoSum(new int[] {2,5,5,11}, 10);
 
             Console.ReadLine();
-
         }
     }
 }
